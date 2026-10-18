@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/saghul/pycares/commit/6ceda977f5543af81152c6b730fb6bbc1f83b14b",
       "git:hexsha": "6ceda977f5543af81152c6b730fb6bbc1f83b14b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v5.2.0"
     },
     {

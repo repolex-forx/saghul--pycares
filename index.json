@@ -1,0 +1,11 @@
+{
+  "org": "saghul",
+  "repo": "pycares",
+  "versions": [
+    {
+      "commit": "6ceda977f5543af81152c6b730fb6bbc1f83b14b",
+      "tag": "v5.2.0",
+      "parsed_at": "2026-10-18T06:10:50.896672+00:00"
+    }
+  ]
+}

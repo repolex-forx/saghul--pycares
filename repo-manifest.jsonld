@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/saghul/pycares/commit/6ceda977f5543af81152c6b730fb6bbc1f83b14b",
       "git:hexsha": "6ceda977f5543af81152c6b730fb6bbc1f83b14b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v5.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v5.2.0",
+      "repolex:parsedAt": "2026-10-18T06:10:50.896031+00:00"
     },
     {
       "@id": "https://repolex.ai/r/saghul/pycares/commit/c385f8dcf638e4323f519e1c2143a3d9e831f756",
